@@ -1,2 +1,4 @@
 node_modules
+graphQL.iml
+.idea
 yarn.lock
