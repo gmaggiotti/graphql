@@ -33,8 +33,8 @@ const videoA = {
 const videoB = {
     id: '3',
     title: 'Hello world3!',
-    duration: 180,
-    watched: true
+    duration: 360,
+    watched: false
 }
 
 const videos = [videoA, videoB]
